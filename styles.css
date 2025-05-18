@@ -96,6 +96,38 @@ body {
     background: var(--highlight-hover-light);
 }
 
+/* ================================ */
+/* ==============AQUI============== */
+/* ================================ */
+
+.links a.rollercoin {
+    background: var(--rollercoin-light);
+}
+
+.links a.rollercoin:hover {
+    background: var(--rollercoin-hover-light);
+}
+
+.links a.limercoin {
+    background: var(--limercoin-light);
+}
+
+.links a.limercoin:hover {
+    background: var(--limercoin-hover-light);
+}
+
+.links a.sunflowerland {
+    background: var(--sunflowerland-light);
+}
+
+.links a.sunflowerland:hover {
+    background: var(--sunflowerland-hover-light);
+}
+
+/* ================================ */
+/* ==============CABO============== */
+/* ================================ */
+
 /* .ref, .email, .ads {
     margin-top: 20px;
     text-align: center;
@@ -132,6 +164,38 @@ body.dark-mode .links a.highlight {
 body.dark-mode .links a.highlight:hover {
     background: var(--highlight-hover-dark);
 }
+
+/* ================================ */
+/* ==============AQUI============== */
+/* ================================ */
+
+body.dark-mode .links a.rollercoin {
+    background: var(--rollercoin-dark);
+}
+
+body.dark-mode .links a.rollercoin:hover {
+    background: var(--rollercoin-hover-dark);
+}
+
+body.dark-mode .links a.limercoin {
+    background: var(--limercoin-dark);
+}
+
+body.dark-mode .links a.limercoin:hover {
+    background: var(--limercoin-hover-dark);
+}
+
+body.dark-mode .links a.sunflowerland {
+    background: var(--sunflowerland-dark);
+}
+
+body.dark-mode .links a.sunflowerland:hover {
+    background: var(--sunflowerland-hover-dark);
+}
+
+/* ================================ */
+/* ==============CABO============== */
+/* ================================ */
 
 /* Estilos globais */
 * {
