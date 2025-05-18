@@ -17,9 +17,22 @@
     --link-hover-light: #0056b3;
     --link-hover-dark: #1c75bc;
     --highlight-light: #ff0000;
-    --highlight-dark: #d4fc5c;
+    --highlight-dark: #ff4500;
     --highlight-hover-light: #a10202;
     --highlight-hover-dark: #cc2900;
+
+    --rollercoin-light: #ff9a2c;
+    --rollercoin-dark: #ff9a2c;
+    --rollercoin-hover-light: #ff9a2c;
+    --rollercoin-hover-dark: #ff9a2c;
+    --limercoin-light: #d4fc5c;
+    --limercoin-dark: #d4fc5c;
+    --limercoin-hover-light: #d4fc5c;
+    --limercoin-hover-dark: #d4fc5c;
+    --sunflowerland-light: #ffde1f;
+    --sunflowerland-dark: #ffde1f
+    --sunflowerland-hover-light: #ffde1f;
+    --sunflowerland-hover-dark: #ffde1f;
 }
 
 body {
